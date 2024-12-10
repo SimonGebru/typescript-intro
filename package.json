@@ -1,0 +1,20 @@
+{
+  "name": "typescript-proj",
+  "version": "0.0.1",
+  "description": "Skolarbete, påbörjat typescript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "intro",
+    "node",
+    "npm"
+  ],
+  "author": "Simon Gebru",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
